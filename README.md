@@ -1,4 +1,4 @@
-# Leetcode/NeetCode — Solutions by GradienNinja
+# Leetcode/NeetCode  Solutions by GradienNinja
 
 A collection of my NeetCode (LeetCode) problem solutions implemented in Python.
 
